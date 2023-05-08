@@ -1,0 +1,50 @@
+.fruit{
+    background-image: url( https://media.gettyimages.com/id/1171900830/photo/orange-trees.jpg?s=612x612&w=gi&k=20&c=DuysSbscEJuUP7PynJ-mCuBhuiKnShY2fFKRZ3pEd8E=);
+    height: 700px;
+    width: 100%;
+
+}
+body{
+    height: 5500px;
+    width: 100%;
+}
+.content{
+    height: 400px;
+    width: 42%;
+    margin-left: 46px;
+    background-color:#111111;
+    border: 2px solid black;
+    position: relative;
+    margin-top: -533px;
+}
+.content h1{
+    padding-left: 62px;
+    padding-top: 16px;
+    font-size: 65px;
+}
+.content p{
+    padding-left: 56px;
+    padding-right: 8px;
+    font-size: 24px;
+}
+.button{
+    height: 46px;
+    width: 153px;
+    background-color: darkgoldenrod;
+    margin-left: 50px;
+}
+
+.button h3{
+    color: black;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.button h3 a.ex1:hover, a.ex1:active {
+    color:aliceblue;
+    cursor: pointer;
+}
+.second{
+    height: 800px;
+    width: 100%;
+    background-color: black;
+}
